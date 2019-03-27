@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.casadossites.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>https://www.casadossites.com/</loc>
+  <changefreq>yearly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://www.casadossites.com/quem-somos</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.casadossites.com/servicos</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.casadossites.com/processo</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.casadossites.com/portfolio</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.8</priority>
+</url>
+</urlset>
